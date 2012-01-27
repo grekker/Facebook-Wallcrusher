@@ -6,6 +6,9 @@ Instructions:
 1) Grab the bookmarklet file, highlight the text, and drag it to your bookmarks toolbar or menu in your web browser of choice (I suggest Firefox). 
 2) When you are looking at your facebook profile page (the one with your wall displayed), click the bookmark you created in step 1.
 3) If it doesn't start or stops at some point in the process, click the bookmark again, or refresh the page then click the bookmark. It took me about 30 minutes to delete 5 years worth of posts. It's pretty fast (uses AJAX).
+
+Note: Sometimes it misses a wall post or two. Don't sweat it...it will almost always get the ones it missed on the next pass.
+
 Note: If you have Firebug installed there is some console output if you want to watch a little bit of what it is doing under the hood. This is strictly optional, you DO NOT need Firebug to run this script.
 
 Thanks, and enjoy!
