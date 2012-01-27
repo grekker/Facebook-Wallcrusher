@@ -3,7 +3,7 @@ This is a very simple script that will delete all of your wall posts on facebook
 I strongly suggest you backup your facebook profile to your local hard drive before you do this. You won't be able to restore your wall posts, but at least you'll have them for future reference if you ever want to look back.
 
 Instructions:
-1) Grab the bookmarklet file, highlight the text, and drag it to your bookmarks toolbar or menu in your web browser of choice (I suggest Firefox). 
+1) Open the bookmarklet file, highlight the entire line of code, and drag what you've highlighted over to your bookmarks toolbar or menu in your web browser of choice (I suggest Firefox). If you did it correctly you should now have a new bookmark, but instead of a website URL that bookmark contains javascript. 
 2) When you are looking at your facebook profile page (the one with your wall displayed), click the bookmark you created in step 1.
 3) If it doesn't start or stops at some point in the process, click the bookmark again, or refresh the page then click the bookmark. It took me about 30 minutes to delete 5 years worth of posts. It's pretty fast (uses AJAX).
 
